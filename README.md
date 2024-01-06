@@ -3,3 +3,5 @@ yang nantinya akan masuk kedalam database MYSQL
 Untuk mengganti jumblah substotal ada di Home.php
 
 File sql sudah ada didalam
+
+Live Server : https://xdayat.my.id/demo-discount/public/
